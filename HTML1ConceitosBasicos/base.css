@@ -43,6 +43,14 @@ img{
     text-align: center;
     font-size: 30px;
 }    
+
+.content-3 {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+    text-align: justify;
+    font-size: 30px;
+}
 table {
     border: solid 1px black;
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
